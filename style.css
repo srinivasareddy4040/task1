@@ -1,0 +1,67 @@
+body{
+    background-color:skyblue ,springgreen,lightsteelblue;
+   
+}
+#h{
+    text-align:center;
+    font-size:25px;
+    color: blue;
+}
+#h2{
+    background-color: rgb(172, 224, 194);
+    color:black;
+}
+.nav-links{
+    text-align: center;
+    color:lightcoral;
+
+}
+#c0{
+    text-align:center;
+    color:rgb(232, 14, 232);
+    font-size:25px;
+}
+#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#c1{
+    text-align: center;
+    font-size:15px;
+    color:deeppink;
+    size:5px;
+}
+#h4{
+    text-align:center;
+    font-size: 25px;
+    color:rgb(108, 16, 199);
+    
+}
+#c4{
+    text-align:center;
+    color:rgb(161, 9, 35);
+    font-size:15px;
+}
+#img2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#m1{
+    text-align: center;
+    font-size:15px;
+    color:darkmagenta;
+    size:5px;
+}
+.button1{
+    text-align: center;
+    font-size:30px;
+    color:rgb(44, 12, 202);
+    size:5px;
+}
+#c5{
+    text-align: center;
+    color: rgb(28, 5, 231);
+
+}
